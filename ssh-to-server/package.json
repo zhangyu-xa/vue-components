@@ -1,0 +1,24 @@
+{
+  "name": "ssh-to-server",
+  "version": "1.0.0",
+  "description": "this compnent\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001bis used for dploying packages to linux server",
+  "main": "conf.js",
+  "scripts": {
+    "test": "node ./ssh-deploy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zhangyu-xa/vue-components.git"
+  },
+  "keywords": [
+    "publish",
+    "deploy",
+    "ssh\u001b[D\u001b[D\u001b[\u001b[\u001b[C\u001b[C\u001b[ssh-to-server"
+  ],
+  "author": "dream-zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangyu-xa/vue-components/issues"
+  },
+  "homepage": "https://github.com/zhangyu-xa/vue-components#readme"
+}
